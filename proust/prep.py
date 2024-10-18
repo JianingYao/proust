@@ -7,7 +7,7 @@ import scipy.sparse as sp
 from torch.backends import cudnn
 from scipy.sparse.csc import csc_matrix
 from scipy.sparse.csr import csr_matrix
-from sklearn.neighbors import NearestNeighbors
+# from sklearn.neighbors import NearestNeighbors
 import cv2
 
 

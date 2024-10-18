@@ -1,10 +1,10 @@
 import numpy as np
-import pandas as pd
-from sklearn import metrics
+# import pandas as pd
+# from sklearn import metrics
 from sklearn.decomposition import PCA
-import scanpy as sc
-import matplotlib.pyplot as plt
-from sklearn import metrics
+# import scanpy as sc
+# import matplotlib.pyplot as plt
+# from sklearn import metrics
 import math
 
 

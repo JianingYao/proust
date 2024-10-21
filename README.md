@@ -21,7 +21,7 @@ The following package is required to run proust:
 - rpy2==3.5.11
 
 ## Tutorial
-
+Please refer to [this tutorial](https://github.com/JianingYao/proust/blob/master/tutorial_IFDLPFC.ipynb) for the step-by-step demonstration on the Visium SPG DLPFC dataset. 
 
 
 ## Citation

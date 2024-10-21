@@ -14,7 +14,7 @@ import math
 from proust.prep import *
 from proust.nnModels import *
 
-def Img_learn(adata, image, lr=0.001, epochs=1000, device = 'mps', random_seed=333):
+def Img_learn(adata, image, lr=0.001, epochs=1000, device = 'mps', random_seed=1998):
     slide = list(adata.uns['spatial'].keys())[0]
     spot_dm = adata.uns['spatial'][slide]['scalefactors']['spot_diameter_fullres']
     r = math.ceil(spot_dm / 2)

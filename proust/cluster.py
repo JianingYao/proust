@@ -33,7 +33,7 @@ def mclust_R(adata, num_cluster, modelNames='EEE', used_obsm='profile_gene_img',
     return adata.copy()
 
 
-def clustering(adata, n_clusters=7, radius=50, refinement=False, seed=1998, 
+def clustering(adata, n_clusters=7, radius=10, refinement=False, seed=1998, 
                 gene_pcs=30, image_pcs=5, gene_weight=None, total_pcs=35, gene_variance=None, img_variance=None):
     """
     Spatial clustering based on the learned representation with optional adjustments

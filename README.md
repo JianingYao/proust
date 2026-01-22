@@ -25,7 +25,7 @@ Please refer to [this tutorial](https://github.com/JianingYao/proust/blob/master
 
 
 ## Citation
-Jianing Yao, Jinglun Yu, Brian Caffo, Stephanie C. Page, Keri Martinowich, Stephanie C. Hicks. "Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies." bioRxiv, Cold Spring Harbor Laboratory, 2024. [https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1](https://www.biorxiv.org/content/10.1101/2024.02.02.578662v1).
+Jianing Yao, Jinglun Yu, Brian Caffo, Stephanie C. Page, Keri Martinowich, Stephanie C. Hicks. "Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies." *Genome Research*, 2025. [https://www.genome.org/cgi/doi/10.1101/gr.279380.124](https://www.genome.org/cgi/doi/10.1101/gr.279380.124).
 
 
 ## Contact
